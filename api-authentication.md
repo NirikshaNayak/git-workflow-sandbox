@@ -2,7 +2,7 @@
 
 ## Overview
 
-The API requires authentication for protected resources.
+The API requires a bearer access token to authenticate requests to protected resources.
 
 ## Authentication Header
 
